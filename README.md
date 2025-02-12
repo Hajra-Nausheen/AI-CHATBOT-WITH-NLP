@@ -21,16 +21,23 @@ Objectives :
 Tools & Technologies Used :
 
    •  Python 3.11 – Core programming language
+   
    •  NLTK (Natural Language Toolkit) – For tokenization, stemming, and text preprocessing
+   
    •  spaCy – For named entity recognition (NER) and advanced NLP tasks
 
 Features :
 
    •  Python 3.11 – Core programming language
+   
    •  Natural Language Understanding (NLU) to process and comprehend user input
+   
    •  Intent Recognition & Entity Extraction for accurate query handling
+   
    •  Multilingual Support to handle different languages
+   
    •  Contextual Conversation for a personalized user experience
+   
    •  Scalable & Lightweight Architecture for easy integration into other projects
 
 
