@@ -16,7 +16,7 @@
    
 Objectives :
 
-        The primary goal of this project is to create an intelligent AI chatbot using Natural Language Processing (NLP) techniques. The chatbot is capable of understanding natural language input, identifying user intent, and providing relevant, context-aware responses. This project aims to deliver a conversational AI solution that can be used in various applications such as customer support, virtual assistants, or interactive FAQs.
+ The primary goal of this project is to create an intelligent AI chatbot using Natural Language Processing (NLP) techniques. The chatbot is capable of understanding natural language input, identifying user intent, and providing relevant, context-aware responses. This project aims to deliver a conversational AI solution that can be used in various applications such as customer support, virtual assistants, or interactive FAQs.
 
 Tools & Technologies Used :
 
